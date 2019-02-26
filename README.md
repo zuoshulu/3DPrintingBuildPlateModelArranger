@@ -1,4 +1,4 @@
-# 3DPrintingBuildPlateModelArranger
+# 3D Printing Build Plate Model Arranger
 Zuoshu Lu
 
 The project has been developed using Visual Studio Code with GCC on Ubuntu Linux. 
